@@ -45,8 +45,6 @@ I'm an AI student with an interest in AI Automation, Agentic AI, Machine Learnin
 - GitHub
 - Docker
 - VS Code
-- Linux
-
 ---
 
 ## 🚀 What I've Worked On
